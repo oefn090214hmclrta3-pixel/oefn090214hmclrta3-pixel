@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Franco</h1>
+<h1 align="center">Hi Negga, soy Franco</h1>
 <h3 align="center">Apasionado por la música</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oefn090214hmclrta3-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="oefn090214hmclrta3-pixel" /> </p>
